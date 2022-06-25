@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>CMP </title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<script src="https://kit.fontawesome.com/a076d05399.js" crossorigin="anonymous"></script>
+<script src="https://kit.fontawesome.com/69d86265d2.js" crossorigin="anonymous"></script>
+<style>
+a:link, a:visited {
+  background-color: #4682b4;
+  color: white;
+  padding: 14px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+
+a:hover, a:active {
+  background-color: darkgreen;
+}
+.center {
+  text-align: center;
+  color: darkgreen;
+}
+</style>
+</head>
+<body>
+
+<h1 class="center"><i class="fa-solid fa-ghost" style="font-size:45px;color:darkseagreen;"></i> Periodic Properties Of Element <br> & <br> Chemical Bonding <i class="fa-solid fa-ghost" style="font-size:45px;color:darkseagreen;"></i></h1><br>
+
+<p class="center"><a href="https://www.facebook.com/groups/chemistry1stpaperdetailsbatchbyhasananam/posts/413549073634845/?__cft__[0]=AZXAk-6KTwNrl6ytpIGqIHkYtZ_PgOyD_L7biNymonyhctqoBLhqK2Toelq21G-E3Riy7mLUjhw6EDIw7_pEolt97lLPbdfyn3eQuO4lN0UFc1PXbmdCKb8TCApXGdPfwec&__tn__=-UK-R"><i class="fa-solid fa-bomb" style="font-size:45px;color:black;">Class 1</i></a></p><br>
+
+<p class="center"><a href="https://www.facebook.com/groups/chemistry1stpaperdetailsbatchbyhasananam/posts/415280646795021/?__cft__[0]=AZXAk-6KTwNrl6ytpIGqIHkYtZ_PgOyD_L7biNymonyhctqoBLhqK2Toelq21G-E3Riy7mLUjhw6EDIw7_pEolt97lLPbdfyn3eQuO4lN0UFc1PXbmdCKb8TCApXGdPfwec&__tn__=-UK-R"><i class="fa-solid fa-bomb" style="font-size:45px;color:black;"> Class 2 </i></a></p><br>
+
+<p class="center"><a href="https://www.facebook.com/groups/chemistry1stpaperdetailsbatchbyhasananam/posts/416526660003753/?__cft__[0]=AZXAk-6KTwNrl6ytpIGqIHkYtZ_PgOyD_L7biNymonyhctqoBLhqK2Toelq21G-E3Riy7mLUjhw6EDIw7_pEolt97lLPbdfyn3eQuO4lN0UFc1PXbmdCKb8TCApXGdPfwec&__tn__=-UK-R"><i class="fa-solid fa-bomb" style="font-size:45px;color:black;">Class 3</i></a></p><br>
+
+<p class="center"><a href="https://www.facebook.com/mihasan.anam/videos/424625999408260/?__cft__[0]=AZXAk-6KTwNrl6ytpIGqIHkYtZ_PgOyD_L7biNymonyhctqoBLhqK2Toelq21G-E3Riy7mLUjhw6EDIw7_pEolt97lLPbdfyn3eQuO4lN0UFc1PXbmdCKb8TCApXGdPfwec&__tn__=-UK-R"><i class="fa-solid fa-bomb" style="font-size:45px;color:black;">Class 4</i></a></p><br>
+
+<p class="center"><a href="https://www.facebook.com/groups/chemistry1stpaperdetailsbatchbyhasananam/posts/419500216373064/?__cft__[0]=AZXAk-6KTwNrl6ytpIGqIHkYtZ_PgOyD_L7biNymonyhctqoBLhqK2Toelq21G-E3Riy7mLUjhw6EDIw7_pEolt97lLPbdfyn3eQuO4lN0UFc1PXbmdCKb8TCApXGdPfwec&__tn__=-UK-R"><i class="fa-solid fa-bomb" style="font-size:45px;color:black;">Class 5</i></a></p><br>
+
+<p class="center"><a href="https://www.facebook.com/groups/chemistry1stpaperdetailsbatchbyhasananam/posts/421293079527111/?__cft__[0]=AZXAk-6KTwNrl6ytpIGqIHkYtZ_PgOyD_L7biNymonyhctqoBLhqK2Toelq21G-E3Riy7mLUjhw6EDIw7_pEolt97lLPbdfyn3eQuO4lN0UFc1PXbmdCKb8TCApXGdPfwec&__tn__=-UK-R"><i class="fa-solid fa-bomb" style="font-size:45px;color:black;">Class 6</i></a></p><br>
+
+<p class="center"><a href="https://www.facebook.com/mihasan.anam/videos/318888443601426/?__cft__[0]=AZXAk-6KTwNrl6ytpIGqIHkYtZ_PgOyD_L7biNymonyhctqoBLhqK2Toelq21G-E3Riy7mLUjhw6EDIw7_pEolt97lLPbdfyn3eQuO4lN0UFc1PXbmdCKb8TCApXGdPfwec&__tn__=-UK-R"><i class="fa-solid fa-bomb" style="font-size:45px;color:black;">Class 7</i></a></p><br>
+
+<p class="center"><a href="https://www.facebook.com/mihasan.anam/videos/732551321514698/?__cft__[0]=AZXAk-6KTwNrl6ytpIGqIHkYtZ_PgOyD_L7biNymonyhctqoBLhqK2Toelq21G-E3Riy7mLUjhw6EDIw7_pEolt97lLPbdfyn3eQuO4lN0UFc1PXbmdCKb8TCApXGdPfwec&__tn__=-UK-R"><i class="fa-solid fa-bomb" style="font-size:45px;color:black;">Class 8</i></a></p><br>
+
+<p class="center"><a href="https://www.facebook.com/mihasan.anam/videos/2223834264440637/?__cft__[0]=AZXAk-6KTwNrl6ytpIGqIHkYtZ_PgOyD_L7biNymonyhctqoBLhqK2Toelq21G-E3Riy7mLUjhw6EDIw7_pEolt97lLPbdfyn3eQuO4lN0UFc1PXbmdCKb8TCApXGdPfwec&__tn__=-UK-R"><i class="fa-solid fa-bomb" style="font-size:45px;color:black;">Class 9</i></a></p><br>
+
+
+
+<p class="center"><a href="https://www.facebook.com/mihasan.anam/videos/704505567329803/?__cft__[0]=AZXAk-6KTwNrl6ytpIGqIHkYtZ_PgOyD_L7biNymonyhctqoBLhqK2Toelq21G-E3Riy7mLUjhw6EDIw7_pEolt97lLPbdfyn3eQuO4lN0UFc1PXbmdCKb8TCApXGdPfwec&__tn__=-UK-R" target="_blank"><i class="fa-solid fa-bomb" style="font-size:45px;color:black;">Class 10</i></a></p><br>
+
+<p class="center"><a href="https://www.facebook.com/mihasan.anam/videos/1737745533227347/?__cft__[0]=AZXAk-6KTwNrl6ytpIGqIHkYtZ_PgOyD_L7biNymonyhctqoBLhqK2Toelq21G-E3Riy7mLUjhw6EDIw7_pEolt97lLPbdfyn3eQuO4lN0UFc1PXbmdCKb8TCApXGdPfwec&__tn__=-UK-R" target="_blank"><i class="fa-solid fa-bomb" style="font-size:45px;color:black;">Class 11</i></a></p><br>
+
+<p class="center"><a href="https://www.facebook.com/mihasan.anam/videos/392721376137480/?__cft__[0]=AZXAk-6KTwNrl6ytpIGqIHkYtZ_PgOyD_L7biNymonyhctqoBLhqK2Toelq21G-E3Riy7mLUjhw6EDIw7_pEolt97lLPbdfyn3eQuO4lN0UFc1PXbmdCKb8TCApXGdPfwec&__tn__=-UK-R" target="_blank"><i class="fa-solid fa-bomb" style="font-size:45px;color:black;">Class 12</i></a></p><br>
+
+<p class="center"><a href="https://www.facebook.com/groups/chemistry1stpaperdetailsbatchbyhasananam/posts/434442628212156/?__cft__[0]=AZXAk-6KTwNrl6ytpIGqIHkYtZ_PgOyD_L7biNymonyhctqoBLhqK2Toelq21G-E3Riy7mLUjhw6EDIw7_pEolt97lLPbdfyn3eQuO4lN0UFc1PXbmdCKb8TCApXGdPfwec&__tn__=-UK-R" target="_blank"><i class="fa-solid fa-bomb" style="font-size:45px;color:black;">Class 13</i></a></p><br>
+
+
+
+
+<i class=""></i>
+</body>
+</html>
+
+
